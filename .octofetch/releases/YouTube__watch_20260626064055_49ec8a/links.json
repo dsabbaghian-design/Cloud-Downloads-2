@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9791",
+  "folder": "YouTube__watch_20260626064055_49ec8a",
+  "base_name": "MINEL_kxGo0KZZhgw_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-2/releases/tag/co-releases-v1-9791",
+  "files": [
+    {
+      "name": "MINEL_kxGo0KZZhgw_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-2/releases/download/co-releases-v1-9791/MINEL_kxGo0KZZhgw_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-2/releases/assets/458383162",
+      "id": 458383162,
+      "size": 27654350,
+      "download_count": 0
+    }
+  ]
+}
