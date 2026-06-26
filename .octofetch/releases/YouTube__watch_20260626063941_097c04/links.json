@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6055",
+  "folder": "YouTube__watch_20260626063941_097c04",
+  "base_name": "MINEL_Golhaye_Kaghazi_l-9yM9jH4OM_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-2/releases/tag/co-releases-v1-6055",
+  "files": [
+    {
+      "name": "MINEL_Golhaye_Kaghazi_l-9yM9jH4OM_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-2/releases/download/co-releases-v1-6055/MINEL_Golhaye_Kaghazi_l-9yM9jH4OM_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-2/releases/assets/458382074",
+      "id": 458382074,
+      "size": 37842218,
+      "download_count": 0
+    }
+  ]
+}
