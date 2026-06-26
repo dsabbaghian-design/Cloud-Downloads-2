@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7099",
+  "folder": "YouTube__watch_20260626064109_56ed4b",
+  "base_name": "MINEL_Rooz-e_Barfi_Tribute_to_Siavash_Ghomayshi_(Official_Audio)_q_Iqhe-zuzQ_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-2/releases/tag/co-releases-v1-7099",
+  "files": [
+    {
+      "name": "MINEL_Rooz-e_Barfi_Tribute_to_Siavash_Ghomayshi_.Official_Audio._q_Iqhe-zuzQ_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-2/releases/download/co-releases-v1-7099/MINEL_Rooz-e_Barfi_Tribute_to_Siavash_Ghomayshi_.Official_Audio._q_Iqhe-zuzQ_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-2/releases/assets/458383193",
+      "id": 458383193,
+      "size": 21345687,
+      "download_count": 0
+    }
+  ]
+}
